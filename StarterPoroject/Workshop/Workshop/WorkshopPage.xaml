@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Workshop"
+    x:Class="Workshop.WorkshopPage"
+    xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions">
+
+    <StackLayout Orientation="Vertical" Padding="40" BackgroundColor="White">
+        <Label
+            Text="Welcome to the  Happy Meter!"
+            FontSize="Medium"
+            FontAttributes="Bold"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="Center" />
+        
+        <!--Button Here-->
+        
+        <ActivityIndicator
+            x:Name="loadingIndicator"
+            IsVisible="false"
+            Color="Green" />
+        <controls:CircleImage
+            Aspect="AspectFill"
+            x:Name="circleImage"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            HeightRequest="200"
+            WidthRequest="200"
+            BorderColor="Green"
+            BorderThickness="1" />
+        <Label
+            Text=""
+            x:Name="happinessLabel"
+            FontSize="Medium"
+            VerticalOptions="Center"
+            HorizontalOptions="CenterAndExpand" />
+        <Button x:Name="GetDetailEmotion"
+                Text="Show detail Emotion"
+                FontSize="Large"
+                BackgroundColor="Green"
+                TextColor="White"
+                IsEnabled="False" />
+    </StackLayout>
+</ContentPage>

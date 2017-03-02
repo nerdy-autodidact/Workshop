@@ -1,0 +1,239 @@
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.Droid.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.Droid.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\io.patz.msoe_workshop.apk
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\io.patz.msoe_workshop-Signed.apk
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\FormsViewGroup.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.CurrentActivity.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.Abstractions.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Microsoft.ProjectOxford.Common.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\FormsViewGroup.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.CurrentActivity.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.Abstractions.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\Workshop.Droid.csprojResolveAssemblyReference.cache
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\Workshop.Droid.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\Workshop.Droid.pdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\bin\io.patz.msoe_workshop.apk
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\layout\tabbar.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\layout\toolbar.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\values\styles.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\drawable\icon.png
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\R.cs.flag
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\uploadflags.txt
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.Droid.dll.config
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.Droid.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Java.Interop.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Mono.Android.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Mono.CSharp.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\mscorlib.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.Core.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.Xml.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Workshop.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Workshop.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Workshop.Droid.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\EngineIoClientDotNet.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Newtonsoft.Json.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\SocketIoClientDotNet.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\UXDivers.Gorilla.Common.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\UXDivers.Gorilla.Common.Droid.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\UXDivers.Gorilla.SDK.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\UXDivers.Gorilla.SDK.Droid.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\WebSocket4Net.dll
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\bin\Debug\Newtonsoft.Json.xml
+D:\EmblaTechTalk\EmblaTechTalk\Connitive\MSOEWorkshop\Droid\obj\Debug\Workshop.Droid.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\Workshop.Droid.csprojResolveAssemblyReference.cache
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\Workshop.Droid.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\Workshop.Droid.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.Droid.dll.config
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.Droid.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.Droid.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\io.patz.msoe_workshop.apk
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\io.patz.msoe_workshop-Signed.apk
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\EngineIoClientDotNet.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\FormsViewGroup.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Newtonsoft.Json.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.CurrentActivity.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.Abstractions.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\SocketIoClientDotNet.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\UXDivers.Gorilla.Common.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\UXDivers.Gorilla.Common.Droid.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\UXDivers.Gorilla.SDK.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\UXDivers.Gorilla.SDK.Droid.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\WebSocket4Net.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Microsoft.ProjectOxford.Common.dll
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\FormsViewGroup.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Newtonsoft.Json.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.Abstractions.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Plugin.CurrentActivity.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\bin\io.patz.msoe_workshop.apk
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\layout\tabbar.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\layout\toolbar.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\values\styles.xml
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\drawable\icon.png
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\R.cs.flag
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\uploadflags.txt
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.Droid.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Java.Interop.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Mono.Android.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\mscorlib.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.Core.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\System.Xml.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Workshop.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Workshop.Droid.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\obj\Debug\Workshop.Droid.dll.mdb
+D:\EmblaTechTalk\Completed Code\Workshop\Droid\bin\Debug\Workshop.Droid.dll.mdb
