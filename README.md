@@ -7,7 +7,7 @@ Clone or download the package to your latops
 
 # Requirements
 
-We use windows workstation and work with Xamarin,Andorid platform for this workshop. Since we need a MAC to see an IOS app ,we wont do IOS in this workshop.
+We use windows workstation and work with Xamarin,Android platform for this workshop. Since we need a MAC to see an IOS app ,we wont do IOS in this workshop.
 
 Thus as of now following should be installed
     
@@ -16,12 +16,72 @@ Java JDK 8 (1.8),
 Xamarin Platform,
 Xamarin studio
 
-
-# Manual installation
-
 Note
 All these installation instructiona  can be found in following Xamarin developer site
 https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/
+
+# Installtion and prepare your devlopment environment
+
+You can follow either universal installation or Manual instalation
+
+
+# Universal Installer
+
+The first step is to download the Xamarin unified installer, which can be found at http://www.xamarin.com/Download:
+
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/Images/download.png)
+
+Select the I already have Visual Studio Installed checkbox, you will be offered the option of downloading Xamarin through the Xamarin universal installer
+
+
+1) Open the installer to begin the installation process:
+
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/Images/downloadstart.png)
+
+
+2) The first step in the installation requires you to review and accept the license in order to proceed. To do this, click the checkbox and press Next:
+
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/Images/installer2.png)
+
+3) Identify the Required Components
+
+Next, the installer will inspect the system to determine which, if any, required components are missing and need to be downloaded and installed. You can select which products you wish to download here:
+
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/Images/installer3.png)
+
+4) Install the Components
+
+After identifying missing components, the Xamarin installer will download and execute the installers for the platform dependencies, as shown in the screenshots below.
+
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/Images/installer4.png)
+
+The Xamarin unified installer will start the download and install process of the selected items:
+
+1{alt tag] (https://developer.xamarin.com/guides/android/getting_started/installation/windows/Images/installer6.png)
+
+
+5) Configure Xamarin.Android
+
+Finally, after we’ve installed the different parts, we can configure them to complete our installation:
+
+Configure the SDKs – Once we’ve installed the SDK prerequisites listed above, we will need to configure the paths to the SDK directories in Xamarin Studio.
+
+Configure the Emulator – In order to run and debug our Xamarin.Android applications, we need to use the Android Virtual Device (AVD) Manager to create and configure devices. 
+Instructions for this can be found in the Configuring the Emulator guide(https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/debug-on-emulator/android-sdk-emulator/#Configuring_Virtual_Devices).
+
+Open the Xamarin Studio ,In the menu bar, navigate to Tools > Options > Projects > SDK Locations > Android as illustrated in the screenshot below:
+		
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image14.png)
+
+
+JDK: Xamarin Studio will target the default location for the Java JDK. If the JDK was previously installed or was installed to a location other than the default, you can configure that path by clicking Browse and then navigating to the correct location.
+
+Android SDK: In the Android SDK section, specify the installation path to the Android SDK by clicking Browse and then navigating to the Android SDK directory. Make sure that the correct path to the Android NDK is also specified.
+
+
+
+
+#  Manual installation
 
 # 1)JDK 
 
