@@ -30,101 +30,95 @@ If you are using a 64-bit version of Windows, install 64-bit version of JDK 8 (1
 
 
 # 2)Install the Android SDK 
+Download the ANDROID SDK in following Link
 
-	Download the ANDROID SDK in following Link
+https://developer.android.com/studio/index.html#downloads
 
-	https://developer.android.com/studio/index.html#downloads
+The SDK can be downloaded from the above Android Studio website and will have a file name like tools_r[x].[x].[x]-windows.zip. 
+It is not necessary to download the entire Android Studio bundle as we only need the SDK. Select the Windows zip file under Get just the command line tools as illustrated below:
 
-	The SDK can be downloaded from the above Android Studio website and will have a file name like tools_r[x].[x].[x]-windows.zip. 
-	It is not necessary to download the entire Android Studio bundle as we only need the SDK. Select the Windows zip file under Get just the command line tools as illustrated below:
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image2.png)
 
-	![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image2.png)
-
-	After downloading the SDK you will need to extract it. We recommend extracting the zip to C:\Program Files (x86)\Android\android-sdk however you can use another preferred location on your disk.
+After downloading the SDK you will need to extract it. We recommend extracting the zip to C:\Program Files (x86)\Android\android-sdk however you can use another preferred location on your disk.
 
 
 
 # 3)Install the Android NDK
 
-	![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image4.png)
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image4.png)
 
-	Once downloaded, extract the NDK to the same location as the SDK (C:\Program Files (x86)\Android). This should create a directory named android-ndk, potentially with a version number in the name.
+Once downloaded, extract the NDK to the same location as the SDK (C:\Program Files (x86)\Android). This should create a directory named android-ndk, potentially with a version number in the name.
 
 
 
 # 4) Install required tools and API
 
 
-	![alt tag] (https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image6.png)
+![alt tag] (https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image6.png)
 
-	4.1) Navigate to your Android SDK directory in Explorer and double click on SDK Manager.exe to run it as metioned above
+4.1) Navigate to your Android SDK directory in Explorer and double click on SDK Manager.exe to run it as metioned above
 
-
-	4.2) Install the required SDK Tools and APIs – Once launched, we can use the Android SDK manager to select the relevant components for installation. The latest version of the following components must always be selected:
+4.2) Install the required SDK Tools and APIs – Once launched, we can use the Android SDK manager to select the relevant components for installation. The latest version of the following components must always be selected:
 
     		Android SDK Tools
     		Android SDK Platform-tools
     		Android SDK Build-tools.
 
-	4.3) These selections are indicated in the screenshot below:
+4.3) These selections are indicated in the screenshot below:
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image7.png)
 
-	![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image7.png)
+4.4) To start installation, click the Install [x] packages button, accept the Android SDK licenses on the following screen and click Install, as displayed below:
 
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image9.png)
 
-	4.4) To start installation, click the Install [x] packages button, accept the Android SDK licenses on the following screen and click Install, as displayed below:
-
-	![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image9.png)
-
-
-
-	4.5) Install more Android Platforms.Deciding which platforms to install is entirely up to you, although it is recommended that at least the most popular platforms in the Android Dashboard be installed. 
+4.5) Install more Android Platforms.Deciding which platforms to install is entirely up to you, although it is recommended that at least the most popular platforms in the Android Dashboard be installed. 
 	
-	![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image10.png)
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image10.png)
 
 # 5) Install Xamarin 
 
-	5.1) Create a Xamrin account in following link
+5.1) Create a Xamrin account in following link
 
-	https://www.xamarin.com/account/login?returnUrl=http://www.xamarin.com/
+https://www.xamarin.com/account/login?returnUrl=http://www.xamarin.com/
 
-	5.2) Login to the account and download the Xamarin anroid ,Xamarin IOS
-	To install login the above page and navigate to Downloads. Then, in the Windows dropdown under Xamarin.Android, download the latest version and install those downloaded Exe
+5.2) Login to the account and download the Xamarin anroid ,Xamarin IOS
+To install login the above page and navigate to Downloads. Then, in the Windows dropdown under Xamarin.Android, download the latest version and install those downloaded Exe
 
-	![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image13.png)
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image13.png)
 
-	Dowload the Xamarin.IOS as wells
+Dowload the Xamarin.IOS as wells
 
-	5.3) Install Xamarin Studio for Window
+5.3) Install Xamarin Studio for Window
 	
-		5.3.1) Download & Install GTK 
+5.3.1) Download & Install GTK 
 
-		It can be downloaded from the Download section on the follwing website. 
+It can be downloaded from the Download section on the follwing website. 
 
-		http://www.mono-project.com/download/#download-win
+http://www.mono-project.com/download/#download-win
 		
-		![alt tag] (https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image11.png)
+![alt tag] (https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image11.png)
 
 
-		5.3.2)Install Xamarin Studio
-		To download Xamarin Studio, log in to your Xamarin account agian with credentials you already created.And navigate to the Downloads page.
-	 	 Download the latest version from the Windows dropdown under Xamarin Studio
+5.3.2)Install Xamarin Studio
+To download Xamarin Studio, log in to your Xamarin account agian with credentials you already created.And navigate to the Downloads page.
+Download the latest version from the Windows dropdown under Xamarin Studio
 
-		![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image12.png)
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image12.png)
 
-		Once downloaded, click on the .exe file to install the product, and follow the Installation Wizard.
+Once downloaded, click on the .exe file to install the product, and follow the Installation Wizard.
 
 # 6) Configure Xamarin.Android
 
-	Finally, after we’ve installed the different parts, we can configure them to complete our installation:
+Finally, after we’ve installed the different parts, we can configure them to complete our installation:
 
-    		Configure the SDKs – Once we’ve installed the SDK prerequisites listed above, we will need to configure the paths to the SDK directories in Xamarin Studio.
+Configure the SDKs – Once we’ve installed the SDK prerequisites listed above, we will need to configure the paths to the SDK directories in Xamarin Studio.
 
-    		Configure the Emulator – In order to run and debug our Xamarin.Android applications, we need to use the Android Virtual Device (AVD) Manager to create and configure devices. 
-		Instructions for this can be found in the Configuring the Emulator guide(https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/debug-on-emulator/android-sdk-emulator/#Configuring_Virtual_Devices).
+Configure the Emulator – In order to run and debug our Xamarin.Android applications, we need to use the Android Virtual Device (AVD) Manager to create and configure devices. 
+Instructions for this can be found in the Configuring the Emulator guide(https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/debug-on-emulator/android-sdk-emulator/#Configuring_Virtual_Devices).
 
-	Open the Xamarin Studio ,In the menu bar, navigate to Tools > Options > Projects > SDK Locations > Android as illustrated in the screenshot below:
+Open the Xamarin Studio ,In the menu bar, navigate to Tools > Options > Projects > SDK Locations > Android as illustrated in the screenshot below:
 		
-		![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image14.png)
+![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image14.png)
 
 
 
