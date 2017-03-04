@@ -17,13 +17,13 @@ Xamarin Platform,
 Xamarin studio
 
 Note:
-All these installation instructiona  can be found in following Xamarin developer site.I just copied the instructions for your easy
+All these installation instructions  can be found in following Xamarin developer site.I just copied instructions for your easy
 
 https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/
 
 
 
-# Installtion and prepare your devlopment environment
+# Installtion and Setup your development environment
 
 You can follow either universal installation or Manual instalation
 
