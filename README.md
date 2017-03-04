@@ -2,11 +2,12 @@
 Workshop for university students
 
 #Starter package
-Clone or donwload the package to your latops
+Clone or download the package to your latops
 
 
 # Requirements
-We use windows workstation and work on Andorid platform  for this workshop. Since we need a MAC to develop the IOS app ,we will not show it in this workshop.
+
+We use windows workstation and work with Xamarin,Andorid platform for this workshop. Since we need a MAC to see an IOS app ,we wont do IOS in this workshop.
 
 Thus as of now following should be installed
     
@@ -17,6 +18,10 @@ Xamarin studio
 
 
 # Manual installation
+
+Note
+All these installation instructiona  can be found in following Xamarin developer site
+https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/
 
 # 1)JDK 
 
@@ -121,9 +126,7 @@ Open the Xamarin Studio ,In the menu bar, navigate to Tools > Options > Projects
 ![alt tag](https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/Images/image14.png)
 
 
+JDK: Xamarin Studio will target the default location for the Java JDK. If the JDK was previously installed or was installed to a location other than the default, you can configure that path by clicking Browse and then navigating to the correct location.
 
-
-    		JDK: Xamarin Studio will target the default location for the Java JDK. If the JDK was previously installed or was installed to a location other than the default, you can configure that path by clicking Browse and then navigating to the correct location.
-
-    		Android SDK: In the Android SDK section, specify the installation path to the Android SDK by clicking Browse and then navigating to the Android SDK directory. Make sure that the correct path to the Android NDK is also specified.
+Android SDK: In the Android SDK section, specify the installation path to the Android SDK by clicking Browse and then navigating to the Android SDK directory. Make sure that the correct path to the Android NDK is also specified.
 
