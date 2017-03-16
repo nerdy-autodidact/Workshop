@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>MSOE Workshop</string>
+	<string>Worskshop</string>
 	<key>CFBundleName</key>
 	<string>MSOE Workshop</string>
 	<key>CFBundleIdentifier</key>
-	<string>io.patz.msoe-workshop</string>
+	<string>com.embla.workshop</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -40,8 +40,6 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>XSAppIconAssets</key>
-	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Take picture for your emotions :)</string>
 </dict>
